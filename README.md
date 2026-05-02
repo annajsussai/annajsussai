@@ -59,19 +59,3 @@ I believe technology should be a tool for inclusion, and I am constantly seeking
 <br clear="right">
 
 #
-
-<div align="center">
-  <h3>🔭 System Observations</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=annajsussai&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000814&title_color=9D4EDD&text_color=CAF0F8&border_radius=10&border_color=5A189A&icon_color=7B2CBF&theme=tokyonight" alt="GitHub stats">
-</div>
-
-#
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annajsussai/annajsussai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annajsussai/annajsussai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/annajsussai/annajsussai/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
