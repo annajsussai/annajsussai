@@ -64,7 +64,6 @@ I believe technology should be a tool for inclusion, and I am constantly seeking
   <h3>🔭 System Observations</h3>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=annajsussai&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000814&title_color=9D4EDD&text_color=CAF0F8&border_radius=10&border_color=5A189A&icon_color=7B2CBF&theme=tokyonight" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annajsussai&layout=compact&hide_title=false&langs_count=6&show_icons=true&title_color=9D4EDD&bg_color=000814&text_color=CAF0F8&border_radius=10&border_color=5A189A&theme=tokyonight" alt="Most Used Languages">
 </div>
 
 #
