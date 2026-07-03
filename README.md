@@ -23,9 +23,6 @@ I believe technology should be a tool for inclusion, and I am constantly seeking
 <a href="mailto:annajsussai@gmail.com">
   <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=7B2CBF&labelColor=000" alt="Email">
 </a>
-<a href="https://www.linkedin.com/in/anna-j%C3%BAlia-sussai-1832572ba/">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7B2CBF&labelColor=000" alt="LinkedIn">
-</a>
 <a href="https://lattes.cnpq.br/1688852899230322">
   <img src="https://img.shields.io/badge/Lattes-000?style=for-the-badge&logo=academia&logoColor=7B2CBF&labelColor=000" alt="Lattes">
 </a>
@@ -39,8 +36,6 @@ I believe technology should be a tool for inclusion, and I am constantly seeking
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript" />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35" alt="r" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="35" alt="plotly" />
