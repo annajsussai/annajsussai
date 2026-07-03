@@ -16,12 +16,15 @@ I believe technology should be a tool for inclusion, and I am constantly seeking
 
 #
 
-<img align="right" alt="Space Coding" height="230px" src="https://media.giphy.com/media/dWqi1mSfCri46cn7m0/giphy.gif">
+<img align="right" alt="Space Coding" width="35%" style="max-width:230px; min-width:110px;" src="https://media.giphy.com/media/dWqi1mSfCri46cn7m0/giphy.gif">
 
 <h3 align="left">🌌 Orbiting with me:</h3>
 
 <a href="mailto:annajsussai@gmail.com">
   <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=7B2CBF&labelColor=000" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/anna-j%C3%BAlia-sussai-1832572ba/">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7B2CBF&labelColor=000" alt="LinkedIn">
 </a>
 <a href="https://lattes.cnpq.br/1688852899230322">
   <img src="https://img.shields.io/badge/Lattes-000?style=for-the-badge&logo=academia&logoColor=7B2CBF&labelColor=000" alt="Lattes">
@@ -36,6 +39,8 @@ I believe technology should be a tool for inclusion, and I am constantly seeking
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript" />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35" alt="r" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="35" alt="plotly" />
